@@ -28,7 +28,13 @@ const list = document.getElementById('list');
 
 list.addEventListener('sortupdate', function(event) {
     console.log(event.sortage)
-    // The sortage is an array of the id's in the right and new order.
+    /** The sortage is an array of the id's in the right and new order.
+    * {
+    *  "0": "butter",
+    *  "1": "sugar",
+    *  "2": "apples",
+    *  "3": "sweets"
+    */ }
 });
 ```
 
