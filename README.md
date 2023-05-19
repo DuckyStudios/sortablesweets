@@ -4,7 +4,7 @@ Sortablesweets is a lightweight JavaScript project designed to simplify the mana
 ## Installation
 Implement it via cdn at the bottom of your body.
 ```html
-<script src="https://raw.githubusercontent.com/DuckyStudios/sortablesweets/master/sortablesweets.js"></script>
+<script src="https://cdn.dcky.org/deliver/7-sortablesweets"></script>
 ```
 
 ## Usage
